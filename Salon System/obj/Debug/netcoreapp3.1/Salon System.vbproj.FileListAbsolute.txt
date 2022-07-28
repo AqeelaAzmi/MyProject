@@ -1,0 +1,39 @@
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.EmployeeForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.AssemblyInfo.vb
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.exe
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.deps.json
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.runtimeconfig.json
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\Salon System.pdb
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.pdb
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.CustomerForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.LoginForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.vbproj.CopyComplete
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.Resources.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.ServiceForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.employeeAddForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon System.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.AddCusForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.MenuService.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.HairForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.MehendhiForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.BridalForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.Otherservice.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.PackageAddForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.PackageForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.AppointmentForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.AddAppointmentForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.BillForm.resources
+C:\Users\ACER\source\repos\Salon System\Salon System\obj\Debug\netcoreapp3.1\Salon_System.Home_Page.resources

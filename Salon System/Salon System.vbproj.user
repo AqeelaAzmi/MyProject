@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddAppointmentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCusForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BridalForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="employeeAddForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HairForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MehendhiForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Otherservice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PackageAddForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PackageForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
